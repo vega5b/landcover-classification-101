@@ -2,6 +2,8 @@
 
 Get started with landcover classification using machine learning and satellite or aerial imagery. This interactive material was presented at the University Washington's Geohackweek 2018.
 
+For tutorial, see the [notebook in this repo](https://github.com/vega5b/landcover-classification-101/blob/master/demo_landclassification.ipynb).
+
 ## Perform Land Classification using Supervised Machine Learning in 10-ish Steps
 
 ### Goal
